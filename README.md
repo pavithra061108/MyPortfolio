@@ -1,4 +1,6 @@
-# Personal Portfolio Website
+## 1️⃣ Project Title
+ 
+ # Personal Portfolio Website
 
  ## 2️⃣ Description
 This is my personal portfolio website created to showcase my skills, projects, and contact information. 
@@ -15,12 +17,12 @@ The website highlights my work in web development and provides details about my 
 - Contact page with social media links
 
 ## 5️⃣ Project Structure
-index.html
-about.html
-contact.html
-project.html
-style.css
-images/
+- index.html
+- about.html
+- contact.html
+- project.html
+- style.css
+- images/
 
 ## 6️⃣ How to Run
 1. Download or clone the repository.
@@ -28,7 +30,7 @@ images/
 
 ## 7️⃣ Live Demo
 You can view the live website here:
-https://pavithra061108.github.io/MyPortfolio/
+- https://pavithra061108.github.io/MyPortfolio/
 
 ## 8️⃣ Author
 Pavithra  
