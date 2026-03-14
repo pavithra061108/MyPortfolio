@@ -690,3 +690,90 @@ margin-top:8px;
 line-height:1.6;
 font-size:14px;
 }
+/* RESPONSIVE DESIGN */
+
+@media (max-width:900px){
+
+.resume{
+    width:90%;
+    flex-direction:column;
+}
+
+/* LEFT SIDE */
+
+.left{
+    width:100%;
+    text-align:center;
+}
+
+.profile{
+    width:150px;
+    height:200px;
+    margin:auto;
+}
+
+/* RIGHT SIDE */
+
+.right{
+    width:100%;
+    padding:25px;
+}
+
+.right h1{
+    font-size:24px;
+}
+
+.right h2{
+    font-size:18px;
+}
+
+.right h3{
+    font-size:16px;
+}
+
+.right p{
+    font-size:13px;
+    line-height:1.4;
+}
+
+.left p, .left li{
+    font-size:13px;
+}
+
+}
+
+/* MOBILE DEVICES */
+
+@media (max-width:600px){
+
+.resume{
+    width:95%;
+    margin:20px auto;
+}
+
+.profile{
+    width:120px;
+    height:160px;
+}
+
+.right h1{
+    font-size:20px;
+}
+
+.right h2{
+    font-size:16px;
+}
+
+.right h3{
+    font-size:15px;
+}
+
+.right p{
+    font-size:12px;
+}
+
+.left p, .left li{
+    font-size:12px;
+}
+
+}
